@@ -1,4 +1,5 @@
 # Construction
+## Main Branch is the Non-Animated Version >>> View the second branch (Animated Construction) for the Animated Version
 Fully Responsive Animated Website for  Construction company that show creative and professional services built with only HTML5 - CSS3 - JS - ES6 - JQuery - AOS.
 
 See the design pin:
